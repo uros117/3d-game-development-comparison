@@ -148,9 +148,9 @@ The user study (n=21) revealed significant preferences for modern game engines (
 
 Each implementation has its own detailed repository:
 
-- **[Unity Implementation](implementations/unity_dissertation)**: Full Unity project with scenes, scripts, and assets
-- **[Bevy Implementation](implementations/bevy_dissertation/)**: Rust/Bevy project with custom shaders and ECS architecture  
-- **[JavaFX Implementation](implementations/javafx_dissertation/)**: Java/JavaFX project demonstrating 3D graphics fundamentals
+- **[Unity Implementation](https://github.com/uros117/unity_dissertation)**: Full Unity project with scenes, scripts, and assets
+- **[Bevy Implementation](https://github.com/uros117/bevy_dissertation/)**: Rust/Bevy project with custom shaders and ECS architecture  
+- **[JavaFX Implementation](https://github.com/uros117/javafx_dissertation/)**: Java/JavaFX project demonstrating 3D graphics fundamentals
 
 ## 📄 License
 
