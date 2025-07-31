@@ -1,0 +1,9 @@
+[submodule "implementations/bevy_dissertation"]
+	path = implementations/bevy_dissertation
+	url = https://github.com/uros117/bevy_dissertation.git
+[submodule "implementations/javafx_dissertation"]
+	path = implementations/javafx_dissertation
+	url = https://github.com/uros117/javafx_dissertation.git
+[submodule "implementations/unity_dissertation"]
+	path = implementations/unity_dissertation
+	url = https://github.com/uros117/unity_dissertation.git
